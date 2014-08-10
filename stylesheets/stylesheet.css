@@ -82,7 +82,6 @@ header h2 {
   color: #aaa;
   font-weight: normal;
   line-height: 1.3;
-  text-align: justify;
 }
 
 #container {
@@ -319,7 +318,7 @@ footer {
 }
 
 footer p {
-  text-align: justify;
+  text-align: right;
 }
 /* MISC */
 .clearfix:after {

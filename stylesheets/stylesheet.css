@@ -318,7 +318,9 @@ footer {
   color: #aaa;
 }
 
-
+footer p {
+  text-align: justify;
+}
 /* MISC */
 .clearfix:after {
   clear: both;

@@ -318,12 +318,6 @@ footer {
   color: #aaa;
 }
 
-footer a {
-  color: #666;
-}
-footer a:hover {
-  color: #444;
-}
 
 /* MISC */
 .clearfix:after {

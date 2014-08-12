@@ -1,0 +1,3 @@
+layout: default
+---
+Lorem ipsum...

@@ -2,6 +2,8 @@
 layout: default
 ---
 
+####**Work history**
+
 **Staff writer** *(March 2012 to January 2014)* — The Medina County Gazette, Six-day-a-week newspaper, Medina, Ohio. 
 - Reported and wrote one or more well-researched articles daily.
 - Took photographs to accompany articles.

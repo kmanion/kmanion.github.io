@@ -23,12 +23,12 @@ layout: default
 
 - Researched and wrote a daily article sent to five newspapers in the Lee chain.
 
-**Copy editor** *(June to August 2010)* — San Francisco Chronicle, metro daily newspaper, San Francisco.
+**Copy editor, intern** *(June to August 2010)* — San Francisco Chronicle, metro daily newspaper, San Francisco.
 
 - Wrote eye-catching headlines and photo captions.
 - Edited news and feature stories for grammar and Associated Press style on tight deadlines.
 
-**Reporter** *(January to May 2009)* — Stateline.org, Washington, D.C.
+**Reporter, intern** *(January to May 2009)* — Stateline.org, Washington, D.C.
 
 - Wrote and reported news stories about state policy trends.
 - Curated and posted state news from five states for the site’s daily news roundup using Stateline's CMS.
